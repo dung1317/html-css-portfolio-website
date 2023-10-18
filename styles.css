@@ -25,5 +25,12 @@ body {
   width:100%;
   background: var(--main-orange);
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4);
-  z-index: 10;
+  /*z-index: 10;*/
+}
+.nav-list {
+    display: flex;
+    /*margin-right: 2rem;*/
+}
+ul {
+    list-style: none;
 }
