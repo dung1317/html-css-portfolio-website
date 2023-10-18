@@ -11,9 +11,9 @@ body {
   line-height: 1.4;
 }
 :root {
-  --main-orange: #fdb347;
   --main-gray: #303841;
   --main-white: #f0f0f0;
+  --main-orange: #fdb347;
 }
 .nav {
   display: flex;
