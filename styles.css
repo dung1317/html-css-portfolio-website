@@ -18,10 +18,9 @@ body {
 .nav {
   display: flex; /*Flex-Container*/
   justify-content: flex-end; /*Align the flex items at the end of the container*/
-  position: fixed;
+  /*position: fixed;    <---- related to: top, left, box-shadow, z-index*/
+  /*top: 0; left: 0;*/
   text-align: center;
-  top: 0;
-  left: 0;
   text-transform: uppercase;
   width:100%;
   background: var(--main-orange);
