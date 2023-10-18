@@ -16,7 +16,8 @@ body {
   --main-orange: #fdb347;
 }
 .nav {
-  display: flex;
+  display: flex; /*Flex-Container*/
+  justify-content: flex-end; /*Align the flex items at the end of the container*/
   position: fixed;
   text-align: center;
   top: 0;
