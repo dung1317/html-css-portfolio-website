@@ -1,5 +1,7 @@
 New Goal. Hometown Section. HTML & CSS Idea based by Scrimba
+https://v2.scrimba.com/hometown-homepage-prj0a5646d0
 
+![IMG_20240916_131421](https://github.com/user-attachments/assets/c87055c4-6991-4e6b-b4a6-382a797f650e)
 
 # html-css-portfolio-website
 Build a Personal Portfolio Webpage
