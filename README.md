@@ -1,7 +1,8 @@
 New Goal. Hometown Section. HTML & CSS Idea based by Scrimba
 https://v2.scrimba.com/hometown-homepage-prj0a5646d0
+<img width="397" alt="Bildschirmfoto 2024-09-17 um 01 47 51" src="https://github.com/user-attachments/assets/3f5dc6b8-2774-4d22-88cb-4c204f837f22">
 
-![IMG_20240916_131421](https://github.com/user-attachments/assets/c87055c4-6991-4e6b-b4a6-382a797f650e)
+
 
 # html-css-portfolio-website
 Build a Personal Portfolio Webpage
