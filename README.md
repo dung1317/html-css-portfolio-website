@@ -2,6 +2,10 @@ New Goal. Hometown Section. HTML & CSS Idea based by Scrimba
 https://v2.scrimba.com/hometown-homepage-prj0a5646d0
 <img width="397" alt="Bildschirmfoto 2024-09-17 um 01 47 51" src="https://github.com/user-attachments/assets/3f5dc6b8-2774-4d22-88cb-4c204f837f22">
 
+Navbar wird anhand diesem freecodecamp.com Project erstellt: https://technical-documentation-page.freecodecamp.rocks/#What_you_should_already_know
+- Side Navbar
+- always shown when scrolling
+<img width="1440" alt="Bildschirmfoto 2024-09-25 um 21 18 15" src="https://github.com/user-attachments/assets/ab1626f8-d9b7-4865-8e89-20a334b15baf">
 
 
 # html-css-portfolio-website
