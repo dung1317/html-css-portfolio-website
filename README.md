@@ -7,7 +7,6 @@ Navbar wird anhand diesem freecodecamp.com Project erstellt: https://technical-d
 - always shown when scrolling
 <img width="1440" alt="Bildschirmfoto 2024-09-25 um 21 18 15" src="https://github.com/user-attachments/assets/ab1626f8-d9b7-4865-8e89-20a334b15baf">
 
-
 # html-css-portfolio-website
 Build a Personal Portfolio Webpage
 Objective: Build an app that is functionally similar to https://personal-portfolio.freecodecamp.rocks
@@ -26,3 +25,7 @@ User Stories:
 10. The height of the welcome section should be equal to the height of the viewport
 11. The navbar should always be at the top of the viewport
 12. Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
+
+https://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_vertical_fixed
+
+/Users/nguyenducci/Desktop/Bildschirmfoto 2024-09-25 um 22.09.58.png
