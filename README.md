@@ -27,5 +27,3 @@ User Stories:
 12. Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
 https://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_vertical_fixed
-
-
