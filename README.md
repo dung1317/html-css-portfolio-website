@@ -28,4 +28,4 @@ User Stories:
 
 https://www.w3schools.com/css/tryit.asp?filename=trycss_navbar_vertical_fixed
 
-/Users/nguyenducci/Desktop/Bildschirmfoto 2024-09-25 um 22.09.58.png
+
